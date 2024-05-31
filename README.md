@@ -21,3 +21,4 @@ Anime Page: Deliver a rich viewing experience with dedicated anime pages, offeri
 Favorite Page: Allow users to curate their own personalized anime collection by marking titles as favorites, providing easy access to their most cherished shows and movies.
 
 Whether you're a seasoned anime enthusiast or a newcomer to the genre, Anime App Movie UI promises to be your go-to destination for discovering, exploring, and enjoying the captivating world of anime. Join us on this exciting journey by contributing to our open-source project today!
+
